@@ -42,14 +42,14 @@ export default function CardView(){
     const renderPriceControls = () => (
         <View style={styles.priceLabelContainer}>
           <Button
-            title="<"
-            color={"#01A6B3"}
+            title=" < "
+            color={"#D9AF32"}
             onPress={() =>{handlePreviousItem(carData, setCarData)}}
           />
           <Text style={styles.priceLabel}>{carData?.price}</Text>
           <Button
-            title=">"
-            color={"#01A6B3"}
+            title=" > "
+            color={"#D9AF32"}
             onPress={() =>handleNextItem(carData, setCarData)}
           />
         </View>

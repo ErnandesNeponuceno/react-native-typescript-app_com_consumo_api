@@ -6,7 +6,7 @@ import CardView from "../../components/CardView";
 export default function HomeScreen(){
     return(
         <View style={styles.container}> 
-            <View style={styles.cameraBox}>
+            <View style={styles.cardBox}>
                 <CardView/>
             </View>
         </View>

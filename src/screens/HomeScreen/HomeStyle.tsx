@@ -8,14 +8,15 @@ export const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent: "center",
       },
-      cameraBox: {
+      cardBox: {
         position: "relative",
-        width: 350,
+        width: "95%",
         height: "90%",
         overflow: "hidden",
-        borderWidth: 2,
-        borderColor: "#fff",
-        borderRadius: 10,
+        borderWidth: 1,
+        borderColor: "rgba(255, 255, 255, 0.4)", 
+        borderRadius: 20,
+        backgroundColor: "rgba(255, 255, 255, 0.175)",
       },
 });
   

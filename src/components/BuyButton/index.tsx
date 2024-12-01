@@ -13,7 +13,7 @@ export default function BuyButton() {
           color="white"
           style={styles.icon}
         />
-        <Text style={styles.buttonText}> Buy This</Text>
+        <Text style={styles.buttonText}>Buy This</Text>
       </TouchableOpacity>
     </View>
   );

@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
       alignItems: 'center',
       height: 1,
       width: '85%',
-      backgroundColor: '#01A6B3',
+      backgroundColor: '#D9AF32',
       marginVertical: 10,
     },
 });
