@@ -70,7 +70,7 @@ src/
 ### **Passos**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-repositorio/lamborghini-showcase.git
+   git clone https://github.com/ErnandesNeponuceno/react-native-typescript-app_com_consumo_api
    ```
 2. Instale as dependências:
    ```bash
